@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryWPF", "LibraryWPF\LibraryWPF.csproj", "{1C1FF8EE-5671-495C-819B-7A5672F67F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryShared", "LibraryShared\LibraryShared.csproj", "{A134D840-1944-4761-962E-664D607AE795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryAPI", "LibraryAPI\LibraryAPI.csproj", "{A24F33F0-B103-40D7-A1BF-CD4C51A23663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1FF8EE-5671-495C-819B-7A5672F67F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1FF8EE-5671-495C-819B-7A5672F67F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1FF8EE-5671-495C-819B-7A5672F67F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1FF8EE-5671-495C-819B-7A5672F67F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A134D840-1944-4761-962E-664D607AE795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A134D840-1944-4761-962E-664D607AE795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A134D840-1944-4761-962E-664D607AE795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A134D840-1944-4761-962E-664D607AE795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24F33F0-B103-40D7-A1BF-CD4C51A23663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24F33F0-B103-40D7-A1BF-CD4C51A23663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24F33F0-B103-40D7-A1BF-CD4C51A23663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24F33F0-B103-40D7-A1BF-CD4C51A23663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {264A83D0-EACE-4160-ADB2-BE6481B59766}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿<Window x:Class="LibraryWPF.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Library" Height="450" Width="800">
+    <Grid>
+        <DataGrid ItemsSource="{Binding Books}" SelectedItem="{Binding SelectedBook}"  AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Title" Binding="{Binding Title}" Width="200"/>
+                <DataGridTextColumn Header="Genre" Binding="{Binding Genre}" Width="100"/>
+                <DataGridTextColumn Header="Author" Binding="{Binding Author}" Width="200"/>
+                <DataGridTextColumn Header="Year" Binding="{Binding YearPublished}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10">
+            <Button Content="Add" Command="{Binding AddBookCommand}" Width="100" Margin="5"/>
+            <Button Content="Update" Command="{Binding UpdateBookCommand}" Width="100" Margin="5"/>
+            <Button Content="Delete" Command="{Binding DeleteBookCommand}" Width="100" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

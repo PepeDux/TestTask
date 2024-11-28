@@ -1,0 +1,14 @@
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\bin\Debug\net8.0\LibraryShared.deps.json
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\bin\Debug\net8.0\LibraryShared.runtimeconfig.json
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\bin\Debug\net8.0\LibraryShared.dll
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\bin\Debug\net8.0\LibraryShared.pdb
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.csproj.AssemblyReference.cache
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.AssemblyInfoInputs.cache
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.AssemblyInfo.cs
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.csproj.CoreCompileInputs.cache
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.dll
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\refint\LibraryShared.dll
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.pdb
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\LibraryShared.genruntimeconfig.cache
+C:\Users\PepeDux\source\repos\TestTask\LibraryShared\obj\Debug\net8.0\ref\LibraryShared.dll
